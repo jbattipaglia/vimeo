@@ -15,6 +15,10 @@ To use "default.json" file:
 python parser.py
 ```
 
+#
 
 Author: 
+
+
 Jacob Battipaglia
+
