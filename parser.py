@@ -1,11 +1,3 @@
-#author: Jacob Battipaglia
-
-#This program parses a JSON input file of shapes (convex polygons) and analyzes
-#the relationship between each shape. Shapes either intersect, are separate, or surround
-#one another (or are inside). This analysis is based off the separating axis theorem, 
-#which states that two convex objects do not overlap if there exists a line onto which the
-#two objects' projections do not overlap.
-
 import json
 import sys
 from math import sqrt
@@ -192,3 +184,5 @@ if __name__ == '__main__':
 				j = j + 1
 		j = 0
 		i = i + 1
+	
+	
