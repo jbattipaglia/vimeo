@@ -17,8 +17,5 @@ python parser.py
 
 #
 
-Author: 
-
-
-Jacob Battipaglia
+Author: Jacob Battipaglia
 
