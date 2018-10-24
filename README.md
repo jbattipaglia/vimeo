@@ -6,6 +6,9 @@ This program parses a JSON input file of shapes (convex polygons) and nalyzes th
 
 This program accepts the path to the JSON file the user would like to arse as its first argument. If no JSON file is specfied, it will use the "default.json" file in the same directory. 
 > python parser.py file.json
+> python parser.py
+
+
 
 Author: 
 Jacob Battipaglia
